@@ -29,6 +29,7 @@ python B_main.py -t BRCA
 ```
 ## Data
 The genomics datasets used in this study are available at: https://github.com/haiyang1986/Subtype-GAN.
+
 And the protein expression datasets used in this study was uploaded.
 
 
