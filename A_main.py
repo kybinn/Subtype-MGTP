@@ -5,7 +5,7 @@ Import the trained translation model and apply it to 3085 omics samples to gener
 import numpy as np
 import pandas as pd
 import torch
-from models import multiGATEncoder,multiGCNEncoder
+from models import multiGCNEncoder
 from utils import  gen_adj_mat_tensor
 from os.path import isfile
 
